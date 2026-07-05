@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+
+# MLflow
+mlruns/
+mlflow.db
+
+# Models
+models/*.pkl
+
+# Docker
+*.tar
+
+# Virtual environments
+venv/
+.venv/
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
